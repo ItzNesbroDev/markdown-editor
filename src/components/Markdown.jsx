@@ -1,7 +1,7 @@
 import React from "react";
 import MDEditor from "@uiw/react-md-editor";
 
-const mkdStr = `# Markdown Editor for [React](https://facebook.github.io/react/)
+const mkdStr = `# Markdown Editor for [Source Code](https://git.io/markdown-itznesbro)
 
 **Hello world!!!**
 

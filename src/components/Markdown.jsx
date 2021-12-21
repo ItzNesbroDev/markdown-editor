@@ -2,11 +2,8 @@ import React from "react";
 import MDEditor from "@uiw/react-md-editor";
 
 const mkdStr = `# Markdown Editor
-
 [Source Code](https://git.io/markdown-itznesbro)
-
 **Hello world!!!**
-
 `;
 
 const Markdown = () => {
